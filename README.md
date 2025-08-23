@@ -29,4 +29,11 @@
   <a href="https://github.com/surtricecream/IAED-project">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=surtricecream&repo=IAED-project&hide_border=true&theme=dark" />
   </a>
+  <br><br>
+
+  <b>IAC</b> <i>(Introdução à Arquitetura de Computadores / Introduction to Computer Architecture)</i> <br>
+
+  <a href="https://github.com/surtricecream/IAC-project">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=surtricecream&repo=IAC-project&hide_border=true&theme=dark" />
+  </a>
 </details>
