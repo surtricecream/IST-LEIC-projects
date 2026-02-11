@@ -26,13 +26,19 @@
 <summary><strong>📗 2nd Year</strong></summary>
 
 #### 🧱 PO — Programação com Objectos / Object-Oriented Programming
-- [Project]()
+- [Project](https://github.com/surtricecream/PO-project)
 
 #### 📐 ASA — Análise e Síntese de Algoritmos / Algorithm Analysis and Design
-- [Projects]()
+- [Projects](https://github.com/surtricecream/ASA-project)
 
 #### ⚙️ SO — Sistemas Operativos / Operating Systems
-- [Project 1]()
+- [Project 1](https://github.com/surtricecream/SO-project)
 - [Project 2]()
 
+</details>
+
+---
+
+<details>
+<summary><strong>📙 3rd Year</strong></summary>
 </details>
