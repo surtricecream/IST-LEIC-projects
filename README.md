@@ -33,7 +33,7 @@
 
 #### ⚙️ SO — Sistemas Operativos / Operating Systems
 - [Project 1](https://github.com/surtricecream/SO-project)
-- [Project 2]()
+- [Project 2](https://github.com/k1ll1ngod/SO-project-2)
 
 </details>
 
