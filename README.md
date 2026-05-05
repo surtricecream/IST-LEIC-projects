@@ -35,10 +35,14 @@
 - [Project 1](https://github.com/surtricecream/SO-project)
 - [Project 2](https://github.com/k1ll1ngod/SO-project-2)
 
+### 🖥️ IPM - Interacção Pessoa-Máquina / Human-Computer Interaction
+- [Project](https://github.com/joao-relvas/ipm_project)
+
 </details>
 
 ---
 
 <details>
 <summary><strong>📙 3rd Year</strong></summary>
+  
 </details>
