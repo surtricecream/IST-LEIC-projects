@@ -35,8 +35,17 @@
 - [Project 1](https://github.com/surtricecream/SO-project)
 - [Project 2](https://github.com/k1ll1ngod/SO-project-2)
 
-### 🖥️ IPM - Interacção Pessoa-Máquina / Human-Computer Interaction
+#### 🖥️ IPM - Interacção Pessoa-Máquina / Human-Computer Interaction
 - [Project](https://github.com/joao-relvas/ipm_project)
+
+#### 🗄️ BD — Bases de Dados / Databases
+- [Project](https://github.com/surtricecream/BD-project)
+
+#### 🤖 IA — Inteligência Artificial / Artificial Intelligence
+- [Project](https://github.com/surtricecream/IA-project)
+
+#### 📊 PE — Probabilidade e Estatística / Probability and Statistics
+- [Project](https://github.com/surtricecream/PE-project)
 
 </details>
 
